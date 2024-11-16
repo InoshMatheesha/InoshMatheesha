@@ -25,4 +25,3 @@ You can find me gaming! I love immersing myself in epic adventures like *Ghost o
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-📊 **Most Used Languages:**  
