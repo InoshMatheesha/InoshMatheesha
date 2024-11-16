@@ -14,7 +14,7 @@ You can find me gaming! I love immersing myself in epic adventures like *Ghost o
 
 📬 **Reach Out:**  
 - ✉️ [inoshmatheesha@gmail.com](mailto:inoshmatheesha@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile) | [Facebook](https://facebook.com/inosh2003)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/inosh-matheesha-9682b429b) | [GitHub]([https://github.com/your-profile](https://github.com/IT23595644)) | [Facebook](https://facebook.com/inosh2003)  
 
 🛠️ **Languages and Tools:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
