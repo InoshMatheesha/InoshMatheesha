@@ -7,7 +7,6 @@
 
 
   <!-- Typing line -->
-  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=🔐+Cyber+Security+Undergraduate;💻+Secure+Coding+%7C+Problem+Solving;🌐+Web+Security+%2B+Full-Stack+Development;🧠+Always+Curious+—+Always+Coding" alt="typing">
 </p>
 
