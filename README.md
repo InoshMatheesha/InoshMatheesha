@@ -128,8 +128,9 @@ I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Pass
 
 ## 📫 Let’s Connect
 
-- 🌐 Facebook: [Kirulu Chamika](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)  
-- 📧 Email: [kiruluchamika2002@gmail.com](mailto:kiruluchamika2002@gmail.com)
+- 🌐 Facebook: [Inosh Matheesha](https://www.facebook.com/inosh123) 
+- 📧 Email: [inoshmatheesha@gmail.com](mailto:inoshmatheesha@gmail.com)
+- Linkdn: [Inosh](https://www.linkedin.com/in/inosh-matheesha-9682b429b)
 
 
 <!-- =============================== -->
