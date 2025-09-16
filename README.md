@@ -95,17 +95,17 @@ I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Pass
   <tr>
     <td width="50%" align="center">
       <!-- Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=kiruluchamika&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=InoshMatheesha&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
       <br/><br/>
       <!-- Streak -->
-      <img src="https://streak-stats.demolab.com?user=kiruluchamika&theme=tokyonight&hide_border=true" alt="streak"/>
+      <img src="https://streak-stats.demolab.com?user=InoshMatheesha&theme=tokyonight&hide_border=true" alt="streak"/>
     </td>
     <td width="50%" align="center">
       <!-- Top Langs -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruluchamika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoshMatheesha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
       <br/><br/>
       <!-- Activity Graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruluchamika&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=InoshMatheesha&theme=tokyo-night&hide_border=true" alt="activity graph"/>
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@ I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Pass
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiruluchamika&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=InoshMatheesha&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <!-- Fun animated gif link -->
