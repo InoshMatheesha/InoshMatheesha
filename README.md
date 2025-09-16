@@ -17,9 +17,9 @@
 <!-- QUICK META -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiruluchamika&label=Profile%20Views&color=1e78c1&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/kiruluchamika?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/kiruluchamika?label=Stars&style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&label=Profile%20Views&color=1e78c1&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/InoshMatheesha?label=Followers&style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/InoshMatheesha?label=Stars&style=for-the-badge" alt="stars"/>
 </p>
 
 <!-- Fun animated gif link -->
