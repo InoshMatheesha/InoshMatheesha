@@ -1,56 +1,44 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+[Your+Name];I'm+a+Full-Stack+Developer;I+love+to+code+and+create." alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Hey!%20I'm%20[Your%20Name]&fontSize=50" />
 </p>
 
-<pre align="center">
-  <code>
-    [~]
-    $ whoami
-    <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a>
-
-    [~]
-    $ cat /etc/bio.txt
-    - 🎓 Undergraduate in Software Engineering.
-    - 🚀 Building scalable web applications and exploring system design.
-    - 💡 Passionate about clean code, performance, and user experience.
-    - 🌱 Currently learning Go and Docker.
-
-    [~]
-    $ ls /skills
-    <a href="#">Languages/</a>  <a href="#">Frontend/</a>  <a href="#">Backend/</a>  <a href="#">Databases/</a>  <a href="#">Tools/</a>
-
-    [~]
-    $ cat /skills/languages/
-    &gt; JavaScript, TypeScript, Java, Python, C++
-
-    [~]
-    $ cat /skills/frontend/
-    &gt; React, Next.js, Redux, TailwindCSS
-
-    [~]
-    $ cat /skills/backend/
-    &gt; Node.js, Express, Spring Boot, REST APIs
-
-    [~]
-    $ cat /skills/databases/
-    &gt; MongoDB, MySQL, PostgreSQL
-
-    [~]
-    $ cat /skills/tools/
-    &gt; Git, Docker, Postman, Figma, Linux
-
-    [~]
-    $ connect --social
-    &gt; <a href="https://linkedin.com/in/your-linkedin-username">[LinkedIn]</a>
-    &gt; <a href="https://twitter.com/your-twitter-handle">[Twitter]</a>
-    &gt; <a href="mailto:your.email@example.com">[Email]</a>
-
-    [~]
-    $ exit
-  </code>
-</pre>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>I am a full-stack developer and UI/UX enthusiast with a knack for building beautiful, functional applications.</li>
+        <li>🔭 Currently working on a project that uses **Microservices Architecture**.</li>
+        <li>🌱 Learning about **DevOps and CI/CD pipelines**.</li>
+        <li>📫 Let's connect! Find me on <a href="https://linkedin.com/in/your-linkedin-username">LinkedIn</a>.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🛠️ Tech Stack</h3>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,mysql,mongodb,git,docker,figma&perline=7" />
+        </a>
+      </p>
+    </td>
+    <td width="35%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=80&section=footer" />
 </p>
