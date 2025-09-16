@@ -7,7 +7,7 @@
 
 
   <!-- Typing line -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=950&duration=3000&lines=Access+Granted...;🔐+Cyber+Security+Undergraduate;💻+Ethical+Hacking+%7C+Secure+Coding;🌐+Web+Security+%2B+Full-Stack+Development;🧠+Hack.+Learn.+Secure.+Repeat." alt="hacker typing">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&width=950&duration=3000&lines=Access+Granted...;Cyber+Security+Undergraduate;Ethical+Hacking+%7C+Secure+Coding;Web+Security+%2B+Full-Stack+Development;Hack.+Learn.+Secure.+Repeat." alt="hacker typing">
 </p>
 
 
