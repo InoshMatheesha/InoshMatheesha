@@ -7,7 +7,7 @@
 
 
   <!-- Typing line -->
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=Building+polished+web+apps+end-to-end;React+%2B+Spring+Boot+%2B+Next.js+%2B+Node.js;MySQL+%2F+MongoDB+%E2%80%A2+Clean+Architecture+%E2%80%A2+UI%2FUX" alt="typing">
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=🔐+Cyber+Security+Undergraduate;💻+Secure+Coding+%7C+Problem+Solving;🌐+Web+Security+%2B+Full-Stack+Development;🧠+Always+Curious+—+Always+Coding" alt="typing">
 </p>
 
 
