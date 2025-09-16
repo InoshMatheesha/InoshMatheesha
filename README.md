@@ -28,15 +28,34 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a passion for full-stack development, UI design, and problem solving.
+I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Passionate about **Web Security, Problem Solving, and UI Design**  
 
-- 🔭 Exploring **Full-Stack Development** using modern tools & frameworks  
-- ⚙️ Currently working with **React, Node.js, Spring Boot, and Next.js**  
-- 🌐 Skilled in **Web + Mobile UI/UX Design**  
-- 💡 Learning & building with **Java Servlets, MySQL Workbench, and MongoDB**  
-- 💻 Languages: **PHP, HTML, CSS, JavaScript, C, C++, Java**  
-- 👨‍💻 Practicing **problem solving, DSA**, and contributing to **Open Source**  
-- 🧠 Always curious — always coding  
+---
+
+### 🛡️ Focus Areas  
+- 🔭 Exploring **Cyber Security** concepts & real-world applications  
+- 🕵️ Practicing **ethical hacking, vulnerability assessment & penetration testing**  
+- ⚙️ Building a strong foundation in **Operating Systems, Networking, and Distributed Systems**  
+- 🧠 Problem solving through **DSA & competitive programming** 
+
+---
+
+### 💻 Tech Skills  
+- **Languages:** PHP · HTML · CSS · JavaScript · C · C++ · Java  
+- **Cyber Tools & Concepts:** Linux · Nmap · GDB · Firewall & IDS/IPS configs · Cryptography basics  
+- **Databases:** MySQL · MongoDB  
+- **Development Knowledge:** React · Node.js · Spring Boot · Next.js (for secure app dev)  
+- **Other Skills:** Open Source Contributions · UI/UX Design · Secure Coding Practices  
+
+---
+
+### 🌍 About Me  
+- 🧑‍🎓 Cyber Security undergraduate @ **SLIIT**  
+- 🔐 Passionate about **cyber defense, ethical hacking, and secure system design**  
+- 🎨 Enjoy blending creativity with tech through **UI/UX design**  
+- 👨‍💻 Constantly learning, experimenting, and sharing knowledge  
+
+---
 
 <!-- Fun animated gif link -->
 <a href="#">
