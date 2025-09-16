@@ -2,7 +2,7 @@
 <!-- TOP BANNER — Dynamic Gradient -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kirulu%20Chamika&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Inosh%20Matheesha&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Cyber%20Security%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
 </p>
 
 
