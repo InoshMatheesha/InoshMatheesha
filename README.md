@@ -32,43 +32,6 @@
 
 </div>
 
----
-
-## 🎯 SYSTEM IDENTITY
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker Animation"/>
-
-```javascript
-const inosh = {
-    title: "Cybersecurity Undergraduate",
-    institution: "SLIIT - Sri Lanka",
-    location: "Sri Lanka 🇱🇰",
-    
-    expertise: {
-        security: [
-            "Penetration Testing",
-            "Web Application Security",
-            "Network Security",
-            "Vulnerability Research"
-        ],
-        development: [
-            "Full-Stack Development",
-            "Secure Code Review",
-            "API Architecture",
-            "Database Design"
-        ]
-    },
-    
-    currentFocus: [
-        "Advanced Penetration Testing (OSCP)",
-        "Cloud Security (AWS/Azure)",
-        "Exploit Development",
-        "Security Automation"
-    ],
-    
-    philosophy: "Security through understanding"
-};
-```
 
 <br clear="right"/>
 
