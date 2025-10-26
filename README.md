@@ -186,39 +186,7 @@
 
 </div>
 
----
 
-## 🔥 SECURITY OPERATIONS
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                    🎯 OFFENSIVE SECURITY                      ║
-╠═══════════════════════════════════════════════════════════════╣
-║  ▸ Web Application Penetration Testing                       ║
-║  ▸ Network Security Assessment & Exploitation                ║
-║  ▸ Vulnerability Research & Disclosure                        ║
-║  ▸ OWASP Top 10 Attack Vectors                               ║
-║  ▸ SQL Injection • XSS • CSRF • RCE                          ║
-║  ▸ Social Engineering & Phishing Campaigns                   ║
-╚═══════════════════════════════════════════════════════════════╝
-
-╔═══════════════════════════════════════════════════════════════╗
-║                    🛡️ DEFENSIVE SECURITY                      ║
-╠═══════════════════════════════════════════════════════════════╣
-║  ▸ Secure Code Review & SAST/DAST                            ║
-║  ▸ Security Architecture Design                               ║
-║  ▸ Incident Response & Forensics                             ║
-║  ▸ Cryptographic Implementation                               ║
-║  ▸ Compliance & Security Standards                            ║
-║  ▸ Security Automation & CI/CD Integration                   ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 ## 📊 SYSTEM METRICS • GITHUB ANALYTICS
 
@@ -242,39 +210,6 @@
 
 </div>
 
----
-
-## 🚀 MISSION OBJECTIVES • 2025 ROADMAP
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation">
-
-### 📅 Q1 2025 • RECONNAISSANCE PHASE
-- ✅ Advanced Web Application Pentesting
-- 🔄 OSCP Certification Preparation
-- 🔄 AWS Security Fundamentals
-- 🔄 CTF Competition Participation
-
-### 📅 Q2 2025 • EXPLOITATION PHASE
-- ⏳ Binary Exploitation & Reverse Engineering
-- ⏳ Malware Analysis Techniques
-- ⏳ Kubernetes Security Assessment
-- ⏳ Bug Bounty Hunting Program
-
-### 📅 Q3 2025 • POST-EXPLOITATION
-- ⏳ Mobile Application Security Testing
-- ⏳ IoT Device Penetration Testing
-- ⏳ Advanced Cryptography Implementation
-- ⏳ Red Team Operations
-
-### 📅 Q4 2025 • PERSISTENCE & DEFENSE
-- ⏳ Security Automation with AI/ML
-- ⏳ DevSecOps Pipeline Integration
-- ⏳ Contributing to Major Security Projects
-- ⏳ Technical Security Blog & Research
-
-<br clear="right"/>
-
----
 
 ## 💻 SKILL MATRIX
 
