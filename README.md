@@ -211,56 +211,21 @@
 </div>
 
 
-## 💻 SKILL MATRIX
 
-<div align="center">
-
-```python
-# Advanced Capability Assessment
-skill_matrix = {
-    "Penetration Testing":     "██████████████████░░  95%",
-    "Web Security":            "█████████████████░░░  90%",
-    "Network Security":        "████████████████░░░░  85%",
-    "Full-Stack Development":  "███████████████████░  88%",
-    "Cloud Security":          "███████████████░░░░░  75%",
-    "Malware Analysis":        "██████████████░░░░░░  70%",
-    "Cryptography":            "███████████████░░░░░  80%",
-    "System Administration":   "████████████████░░░░  82%"
-}
-
-# Execute skill deployment
-for skill, level in skill_matrix.items():
-    print(f"[+] {skill.ljust(25)} {level}")
-
-
-
-## 💡 SYSTEM MESSAGE
-
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   "Security is not a product, but a process."                 ║
-║                                                                ║
-║   Breaking systems to build them stronger.                    ║
-║   One exploit at a time, one patch at a time.                 ║
-║                                                                ║
-║   ☕ Powered by coffee and curiosity                           ║
-║   🔧 Debugging reality since birth                            ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg" alt="Snake Animation" />
+
 
 <br/><br/>
 
 <!-- Quote Generator -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20defense%20is%20understanding%20the%20offense&author=Security%20First%20Principle" alt="Quote"/>
+
+<br/>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg" alt="Snake Animation" />
 
 <br/><br/>
 
