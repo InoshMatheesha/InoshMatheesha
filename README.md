@@ -1,62 +1,188 @@
-<!-- =============================== -->
-<!-- TOP BANNER — Dynamic Gradient -->
-<!-- =============================== -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- █▓▒░ TERMINAL HEADER - MATRIX AESTHETIC ░▒▓█ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ██╗███╗   ██╗ ██████╗ ███████╗██╗  ██╗    ███╗   ███╗ █████╗ ████████╗██╗  ██╗   ║
+║   ██║████╗  ██║██╔═══██╗██╔════╝██║  ██║    ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║   ║
+║   ██║██╔██╗ ██║██║   ██║███████╗███████║    ██╔████╔██║███████║   ██║   ███████║   ║
+║   ██║██║╚██╗██║██║   ██║╚════██║██╔══██║    ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║   ║
+║   ██║██║ ╚████║╚██████╔╝███████║██║  ██║    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║   ║
+║   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ║
+║                                                                                      ║
+║              🔴 OFFENSIVE SECURITY SPECIALIST | ETHICAL HACKER | DEV 🔴             ║
+║                    「 Penetration Testing • Exploit Development 」                    ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Inosh%20Matheesha&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Cyber%20Security%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff41,50:00ff41,100:00aa00&height=150&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontSize=35&fontColor=000000&animation=fadeIn&fontAlignY=45&desc=Root%20Privileges%20Enabled&descSize=16&descAlignY=65" width="100%"/>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- █▓▒░ TERMINAL TYPING EFFECT ░▒▓█ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-  <!-- Typing line -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&width=950&duration=3000&lines=Access+Granted...;Cyber+Security+Undergraduate;Ethical+Hacking+%7C+Secure+Coding;Web+Security+%2B+Full-Stack+Development;Hack.+Learn.+Secure.+Repeat." alt="hacker typing">
-</p>
+<div align="center">
 
+```bash
+┌──(inosh㉿kali)-[~/profile]
+└─$ whoami
+```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=150&lines=root%40security%3A~%23+initializing_attack_vectors...;%3E+Penetration+Tester+%7C+Security+Researcher;%3E+Vulnerability+Hunter+%7C+Full-Stack+Developer;%3E+Exploit+%2B+Secure+%2B+Defend+%2B+Repeat;%5BSUCCESS%5D+All+systems+operational+%E2%9C%93" alt="Terminal Typing" />
 
+```bash
+└─$ cat status.txt
+[●] Active Threat Hunter | [●] Code Breaker | [●] System Hardener
+```
 
-<!-- =============================== -->
-<!-- QUICK META -->
-<!-- =============================== -->
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- █▓▒░ HACKER STATS PANEL ░▒▓█ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```diff
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                         ⚡ SECURITY CLEARANCE METRICS ⚡                      │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&label=Profile%20Views&color=1e78c1&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/InoshMatheesha?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/InoshMatheesha?label=Stars&style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&label=SURVEILLANCE+DETECTIONS&color=00ff41&style=for-the-badge&logo=ghostery" alt="surveillance"/>
+  <img src="https://img.shields.io/github/followers/InoshMatheesha?label=NETWORK+NODES&style=for-the-badge&color=00ff41&logo=node.js&logoColor=white" alt="nodes"/>
+  <img src="https://img.shields.io/github/stars/InoshMatheesha?label=EXPLOITS+ARCHIVED&style=for-the-badge&color=00ff41&logo=databricks&logoColor=white" alt="exploits"/>
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-ff0000?style=for-the-badge&logo=symantec&logoColor=white" alt="threat"/>
 </p>
 
-<!-- Fun animated gif link -->
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🙋‍♂️ About Me
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- █▓▒░ IDENTITY MATRIX ░▒▓█ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Passionate about **Web Security, Problem Solving, and UI Design**  
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVzaWN3d2VoOGZlZnhraGVtOXp5aW45eWh6MmV6ZDJqNnA5YjRyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="hacking gif"/>
 
----
+```yaml
+╔═══════════════════════════════════════════════════╗
+║           🎯 TARGET PROFILE ANALYSIS              ║
+╠═══════════════════════════════════════════════════╣
+  Identity:
+    ├─ Name: Inosh Matheesha
+    ├─ Role: Cyber Security Specialist
+    ├─ Status: [ACTIVE] Undergraduate @ SLIIT
+    └─ Clearance: Level 5 - Full Access
+    
+  Specialization:
+    ├─ 🔴 Offensive Security & Penetration Testing
+    ├─ 🛡️ Web Application Security (OWASP Top 10)
+    ├─ � Exploit Development & Reverse Engineering
+    ├─ 🧩 Cryptographic Protocol Analysis
+    └─ 💀 Vulnerability Research & Disclosure
+    
+  Operations:
+    ├─ [●] Network Infiltration & Packet Analysis
+    ├─ [●] Malware Analysis & Forensics
+    ├─ [●] Secure Full-Stack Development
+    ├─ [●] Binary Exploitation (Buffer Overflows)
+    └─ [●] Social Engineering Countermeasures
+    
+  Arsenal:
+    ├─ OS: Kali Linux | Parrot OS | Windows
+    ├─ Tools: Burp Suite • Metasploit • Nmap • Wireshark
+    ├─ Languages: C • C++ • Java • PHP • JavaScript
+    └─ Frameworks: React • Node.js • Spring Boot
+    
+  Mission:
+    └─ "Break systems to build them stronger"
+       Defense through understanding offense 🎯
+╚═══════════════════════════════════════════════════╝
+```
 
-### 🛡️ Focus Areas  
-- 🔭 Exploring **Cyber Security** concepts & real-world applications  
-- 🕵️ Practicing **ethical hacking, vulnerability assessment & penetration testing**  
-- ⚙️ Building a strong foundation in **Operating Systems, Networking, and Distributed Systems**  
-- 🧠 Problem solving through **DSA & competitive programming** 
+<br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 💻 Tech Skills  
-- **Languages:** PHP · HTML · CSS · JavaScript · C · C++ · Java  
-- **Cyber Tools & Concepts:** Linux · Nmap · GDB · Firewall & IDS/IPS configs · Cryptography basics  
-- **Databases:** MySQL · MongoDB  
-- **Development Knowledge:** React · Node.js · Spring Boot · Next.js (for secure app dev)  
-- **Other Skills:** Open Source Contributions · UI/UX Design · Secure Coding Practices  
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- █▓▒░ SKILL EXPLOITATION FRAMEWORK ░▒▓█ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
----
+<details open>
+<summary><b>📡 RECONNAISSANCE & ENUMERATION</b></summary>
+<br>
 
-### 🌍 About Me  
-- 🧑‍🎓 Cyber Security undergraduate @ **SLIIT**  
-- 🔐 Passionate about **cyber defense, ethical hacking, and secure system design**  
-- 🎨 Enjoy blending creativity with tech through **UI/UX design**  
-- 👨‍💻 Constantly learning, experimenting, and sharing knowledge  
+```python
+# Active Scanning Protocols
+offensive_tools = {
+    "Network": ["Nmap", "Netcat", "Masscan", "Wireshark", "tcpdump"],
+    "Web": ["Burp Suite", "OWASP ZAP", "SQLmap", "Nikto", "DirBuster"],
+    "Exploitation": ["Metasploit", "ExploitDB", "SearchSploit", "msfvenom"],
+    "Post-Exploit": ["Mimikatz", "BloodHound", "PowerSploit", "Empire"],
+    "Forensics": ["Volatility", "Autopsy", "FTK Imager", "Binwalk"]
+}
+```
 
----
+</details>
+
+<details>
+<summary><b>⚡ WEAPONIZATION & DELIVERY</b></summary>
+<br>
+
+```javascript
+// Primary Attack Vectors
+const technicalArsenal = {
+    languages: ["C/C++", "Python", "Java", "PHP", "JavaScript", "Assembly"],
+    webSecurity: ["XSS", "CSRF", "SQLi", "RCE", "SSRF", "XXE", "IDOR"],
+    cryptography: ["AES", "RSA", "Hashing", "PKI", "SSL/TLS Analysis"],
+    development: {
+        frontend: ["React.js", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Spring Boot"],
+        databases: ["MySQL", "MongoDB", "Redis"]
+    }
+}
+```
+
+</details>
+
+<details>
+<summary><b>🎯 CURRENT OPERATIONS</b></summary>
+<br>
+
+```bash
+[●●●●●●●●●●] 100% - Mastering Advanced Penetration Testing
+[●●●●●●●●○○]  80% - Exploit Development & Binary Analysis  
+[●●●●●●●○○○]  70% - Malware Development & Reverse Engineering
+[●●●●●●●●○○]  80% - Cloud Security (AWS/Azure)
+[●●●●●●●●●○]  90% - Secure SDLC & DevSecOps
+```
+
+</details>
+
+<br>
+
+<div align="center">
+
+```diff
+╔════════════════════════════════════════════════════════════════╗
+║  "The best defense is a good offense. Know your enemy's       ║
+║   attack vectors before they do."  - Security Axiom          ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <!-- Fun animated gif link -->
 <a href="#">
