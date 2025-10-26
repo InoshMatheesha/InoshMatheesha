@@ -333,90 +333,8 @@ skill_matrix = {
 # Execute skill deployment
 for skill, level in skill_matrix.items():
     print(f"[+] {skill.ljust(25)} {level}")
-```
 
-</div>
 
----
-
-## 🎯 ACTIVE PROJECTS & OPERATIONS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 OFFENSIVE OPERATIONS
-- 🎯 Automated Security Scanner Framework
-- 🔍 Custom Exploit Development Toolkit
-- 🎮 CTF Challenge Participation
-- 🐛 Bug Bounty Hunting Platform
-- 📡 Network Traffic Analysis Tool
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 DEFENSIVE PROJECTS
-- 🛡️ Secure Full-Stack Web Applications
-- 🔐 Encryption Library Implementation
-- 📊 Security Monitoring Dashboard
-- 🤖 AI-Powered Threat Detection
-- 📝 Open Source Security Contributions
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 CERTIFICATIONS & TRAINING
-
-<div align="center">
-
-| 🎯 IN PROGRESS | 📅 PLANNED | ✅ COMPLETED |
-|:---|:---|:---|
-| 🔄 OSCP - Offensive Security | ⏳ eWPT - Web App Pentesting | ✓ Ethical Hacking Fundamentals |
-| 🔄 AWS Security Specialty | ⏳ CompTIA Security+ | ✓ Network Security Basics |
-| 🔄 CEH - Certified Ethical Hacker | ⏳ Azure Security Engineer | ✓ Web Development Bootcamp |
-
-</div>
-
----
-
-## 🤝 COLLABORATION PROTOCOL
-
-<div align="center">
-
-### 💼 AVAILABLE FOR
-
-```bash
-[●] Security Research & Penetration Testing Projects
-[●] CTF Team Collaborations & Competitive Hacking
-[●] Open Source Security Tool Development
-[●] Technical Writing & Documentation
-[●] Tech Talks, Workshops & Training Sessions
-[●] Freelance Security Consulting & Code Review
-```
-
-### 📡 COMMUNICATION CHANNELS
-
-<p>
-  <a href="mailto:inoshmatheesha@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/inosh-matheesha-9682b429b">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/inosh123">
-    <img src="https://img.shields.io/badge/📱_FACEBOOK-1877F2?style=for-the-badge&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://github.com/InoshMatheesha">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F5FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-</div>
-
----
 
 ## 💡 SYSTEM MESSAGE
 
@@ -439,7 +357,7 @@ for skill, level in skill_matrix.items():
 <br/>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/InoshMatheesha/InoshMatheesha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg" alt="Snake Animation" />
 
 <br/><br/>
 
