@@ -1,104 +1,206 @@
-<div align="center"><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- █▓▒░ TERMINAL HEADER - MATRIX AESTHETIC ░▒▓█ -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ --><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- FUTURISTIC NEON BLUE HEADER -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ --><div align="center">
-
-  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:0047ab&height=280&section=header&text=INOSH%20MATHEESHA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>```ascii
-
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->║                                                                                      ║
-
-<!-- DYNAMIC TYPING ANIMATION -->║   ██╗███╗   ██╗ ██████╗ ███████╗██╗  ██╗    ███╗   ███╗ █████╗ ████████╗██╗  ██╗   ║
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->║   ██║████╗  ██║██╔═══██╗██╔════╝██║  ██║    ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║   ║
-
-║   ██║██╔██╗ ██║██║   ██║███████╗███████║    ██╔████╔██║███████║   ██║   ███████║   ║
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%90;Building+Secure+%7C+Breaking+Smart+%F0%9F%94%90;Innovating+Tomorrow's+Cyber+Defense+%E2%9A%A1" alt="Typing SVG" />║   ██║██║╚██╗██║██║   ██║╚════██║██╔══██║    ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║   ║
-
-║   ██║██║ ╚████║╚██████╔╝███████║██║  ██║    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║   ║
-
-<br/>║   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ║
-
-║                                                                                      ║
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->║              🔴 OFFENSIVE SECURITY SPECIALIST | ETHICAL HACKER | DEV 🔴             ║
-
-<!-- PROFILE BADGES -->║                    「 Penetration Testing • Exploit Development 」                    ║
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->╚══════════════════════════════════════════════════════════════════════════════════════╝
-
-```
-
-<img src="https://img.shields.io/badge/Focus-Cyber%20Security-00d4ff?style=for-the-badge&logo=hackaday&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-00d4ff?style=for-the-badge&logo=statuspage&logoColor=white" /></div>
-
-<img src="https://img.shields.io/badge/Location-Sri%20Lanka-00d4ff?style=for-the-badge&logo=google-maps&logoColor=white" />
-
-<img src="https://img.shields.io/badge/University-SLIIT-00d4ff?style=for-the-badge&logo=google-scholar&logoColor=white" /><p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff41,50:00ff41,100:00aa00&height=150&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontSize=35&fontColor=000000&animation=fadeIn&fontAlignY=45&desc=Root%20Privileges%20Enabled&descSize=16&descAlignY=65" width="100%"/>
-
-<br/><br/></p>
+<div align="center"><div align="center"><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 
 
-<!-- Profile Views & Social Stats --><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+# 👋 Hey there, I'm Inosh Matheesha<!-- █▓▒░ TERMINAL HEADER - MATRIX AESTHETIC ░▒▓█ -->
 
-<img src="https://komarev.com/ghpvc/?username=InoshMatheesha&label=Profile+Views&color=0099ff&style=for-the-badge" alt="Profile views" /><!-- █▓▒░ TERMINAL TYPING EFFECT ░▒▓█ -->
 
-<img src="https://img.shields.io/github/followers/InoshMatheesha?label=Followers&style=for-the-badge&color=0099ff&logo=github" alt="followers" /><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/github/stars/InoshMatheesha?label=Stars&style=for-the-badge&color=0099ff&logo=github" alt="stars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B9AFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Student+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ --><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-</div>
+
+<br/><!-- FUTURISTIC NEON BLUE HEADER -->
+
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=InoshMatheesha&color=3B9AFF&style=flat-square)](https://github.com/InoshMatheesha)<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ --><div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/InoshMatheesha?style=flat-square&color=3B9AFF)](https://github.com/InoshMatheesha)
+
+[![GitHub Stars](https://img.shields.io/github/stars/InoshMatheesha?style=flat-square&color=3B9AFF)](https://github.com/InoshMatheesha)  
+
+
+
+</div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:0047ab&height=280&section=header&text=INOSH%20MATHEESHA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>```ascii
+
+
+
+---╔══════════════════════════════════════════════════════════════════════════════════════╗
+
+
+
+### 🚀 About Me<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->║                                                                                      ║
+
+
+
+```javascript<!-- DYNAMIC TYPING ANIMATION -->║   ██╗███╗   ██╗ ██████╗ ███████╗██╗  ██╗    ███╗   ███╗ █████╗ ████████╗██╗  ██╗   ║
+
+const inosh = {
+
+    location: "Sri Lanka 🇱🇰",<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->║   ██║████╗  ██║██╔═══██╗██╔════╝██║  ██║    ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║   ║
+
+    education: "Cyber Security @ SLIIT",
+
+    interests: ["Security Research", "Web Development", "Problem Solving"],║   ██║██╔██╗ ██║██║   ██║███████╗███████║    ██╔████╔██║███████║   ██║   ███████║   ║
+
+    currentlyLearning: ["Penetration Testing", "Cloud Security", "Advanced Algorithms"],
+
+    funFact: "I break things to make them better! 🔧"<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%90;Building+Secure+%7C+Breaking+Smart+%F0%9F%94%90;Innovating+Tomorrow's+Cyber+Defense+%E2%9A%A1" alt="Typing SVG" />║   ██║██║╚██╗██║██║   ██║╚════██║██╔══██║    ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║   ║
+
+};
+
+```║   ██║██║ ╚████║╚██████╔╝███████║██║  ██║    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║   ║
+
+
+
+### 💼 What I Do<br/>║   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ║
+
+
+
+🔐 **Security**: Ethical Hacking • Penetration Testing • Vulnerability Assessment  ║                                                                                      ║
+
+💻 **Development**: Full-Stack Web Apps • Secure Coding • API Design  
+
+🎯 **Skills**: Problem Solving • System Design • UI/UX Design<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->║              🔴 OFFENSIVE SECURITY SPECIALIST | ETHICAL HACKER | DEV 🔴             ║
+
+
+
+### 🛠️ Tech Stack<!-- PROFILE BADGES -->║                    「 Penetration Testing • Exploit Development 」                    ║
+
+
+
+**Languages**  <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)```
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<img src="https://img.shields.io/badge/Focus-Cyber%20Security-00d4ff?style=for-the-badge&logo=hackaday&logoColor=white" />
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<img src="https://img.shields.io/badge/Status-Actively%20Learning-00d4ff?style=for-the-badge&logo=statuspage&logoColor=white" /></div>
+
+
+
+**Frameworks & Tools**  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-00d4ff?style=for-the-badge&logo=google-maps&logoColor=white" />
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<img src="https://img.shields.io/badge/University-SLIIT-00d4ff?style=for-the-badge&logo=google-scholar&logoColor=white" /><p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff41,50:00ff41,100:00aa00&height=150&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontSize=35&fontColor=000000&animation=fadeIn&fontAlignY=45&desc=Root%20Privileges%20Enabled&descSize=16&descAlignY=65" width="100%"/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br/><br/></p>
+
+
+
+**Security Tools**  
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)<!-- Profile Views & Social Stats --><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)<img src="https://komarev.com/ghpvc/?username=InoshMatheesha&label=Profile+Views&color=0099ff&style=for-the-badge" alt="Profile views" /><!-- █▓▒░ TERMINAL TYPING EFFECT ░▒▓█ -->
+
+
+
+---<img src="https://img.shields.io/github/followers/InoshMatheesha?label=Followers&style=for-the-badge&color=0099ff&logo=github" alt="followers" /><!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+
+
+### 📊 GitHub Stats<img src="https://img.shields.io/github/stars/InoshMatheesha?label=Stars&style=for-the-badge&color=0099ff&logo=github" alt="stars" />
+
+
+
+<div align="center"><div align="center">
+
+
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InoshMatheesha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/></div>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InoshMatheesha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ```bash
 
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoshMatheesha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
 <br/>┌──(inosh㉿kali)-[~/profile]
+
+</div>
 
 └─$ whoami
 
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">```
 
+### 🏆 Achievements
 
+
+
+<div align="center">
 
 <br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=150&lines=root%40security%3A~%23+initializing_attack_vectors...;%3E+Penetration+Tester+%7C+Security+Researcher;%3E+Vulnerability+Hunter+%7C+Full-Stack+Developer;%3E+Exploit+%2B+Secure+%2B+Defend+%2B+Repeat;%5BSUCCESS%5D+All+systems+operational+%E2%9C%93" alt="Terminal Typing" />
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=InoshMatheesha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
 
+
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->```bash
 
+---
+
 <!-- ABOUT ME SECTION -->└─$ cat status.txt
+
+### 📫 Let's Connect
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->[●] Active Threat Hunter | [●] Code Breaker | [●] System Hardener
 
+<div align="center">
+
 ```
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inosh-matheesha-9682b429b)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/inosh123)<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inoshmatheesha@gmail.com)
+
+</div>
 
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
 
+---
+
 <br>
+
+<div align="center">
 
 ```typescript
 
+### ⚡ "Security is not a product, but a process."
+
 const Inosh = {<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
+*Made with ❤️ by Inosh Matheesha*
+
     role: "Cyber Security Undergraduate",<!-- █▓▒░ HACKER STATS PANEL ░▒▓█ -->
+
+</div>
 
     institution: "SLIIT - Sri Lanka Institute of Information Technology",<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
