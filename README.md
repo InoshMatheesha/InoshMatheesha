@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Neon Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=INOSH%20MATHEESHA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Specialist%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://raw.githubusercontent.com/InoshMatheesha/InoshMatheesha/refs/heads/main/github-header-banner.png" width="100%"/>
 
 <!-- Holographic Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Digital+Space+%F0%9F%8C%90;Security+Researcher+%7C+Code+Architect+%F0%9F%94%90;Building+Tomorrow's+Secure+Systems+%E2%9A%A1;Penetration+Tester+%7C+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
