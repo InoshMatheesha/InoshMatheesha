@@ -1,31 +1,32 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=INOSH%20MATHEESHA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=60" width="100%"/>
+<!-- Animated Header with Neon Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=INOSH%20MATHEESHA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Specialist%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Welcome+to+My+Digital+Space+%F0%9F%8C%90;Security+Researcher+%7C+Code+Architect+%F0%9F%94%90;Building+Tomorrow's+Secure+Systems+%E2%9A%A1" alt="Typing Animation" />
+<!-- Holographic Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Digital+Space+%F0%9F%8C%90;Security+Researcher+%7C+Code+Architect+%F0%9F%94%90;Building+Tomorrow's+Secure+Systems+%E2%9A%A1;Penetration+Tester+%7C+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/InoshMatheesha?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/InoshMatheesha?label=Stars&style=for-the-badge&color=6366f1&logo=github" alt="Stars"/>
+<!-- Profile Stats with Neon Glow -->
+<p>
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-137-00F5FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0a0a" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/FOLLOWERS-14-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Followers"/>
+  <img src="https://img.shields.io/badge/STARS-2-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Stars"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a0a0a" alt="Status"/>
 </p>
 
-<!-- Social Links -->
-<p align="center">
+<!-- Social Connect Buttons -->
+<p>
   <a href="mailto:inoshmatheesha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/inosh-matheesha-9682b429b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/inosh123">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://github.com/InoshMatheesha">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -33,9 +34,9 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 SYSTEM IDENTITY
 
-<img align="right" alt="Cybersecurity Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker Animation"/>
 
 ```javascript
 const inosh = {
@@ -73,201 +74,293 @@ const inosh = {
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ ARSENAL • TECHNOLOGY STACK
 
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### Security Tools
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-</div>
-
----
-
-## 🔐 Security Focus Areas
+### ⚔️ Weapons of Choice
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎯 Offensive Security
-- ✅ Web Application Penetration Testing
-- ✅ Network Security Assessment
-- ✅ Vulnerability Research & Analysis
-- ✅ Exploit Development
-- ✅ Social Engineering Defense
-- ✅ OWASP Top 10 Exploitation
-
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/>
+<br><strong>Python</strong>
 </td>
-<td width="50%" valign="top">
-
-### 🛡️ Defensive Security
-- ✅ Secure Code Review
-- ✅ Security Automation Tools
-- ✅ Incident Response Planning
-- ✅ Cryptographic Implementation
-- ✅ Security Architecture Design
-- ✅ Compliance & Best Practices
-
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+<br><strong>Java</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+<br><strong>C++</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
+<br><strong>PHP</strong>
 </td>
 </tr>
 </table>
 
+### 🎨 Frontend Arsenal
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+<br><strong>React</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
+<br><strong>Figma</strong>
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend & Database
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+<br><strong>Express</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/>
+<br><strong>Spring</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+<br><strong>Redis</strong>
+</td>
+</tr>
+</table>
+
+### 🔐 Security Toolkit
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+<br><strong>Kali Linux</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://www.kali.org/images/kali-logo.svg" width="48" height="48" alt="Security"/>
+<br><strong>Burp Suite</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://www.metasploit.com/themes/custom/metasploit/images/metasploit-r7-logo.svg" width="48" height="48" alt="Metasploit" style="filter: brightness(0) invert(1);"/>
+<br><strong>Metasploit</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" width="48" height="48" alt="Wireshark"/>
+<br><strong>Wireshark</strong>
+</td>
+</tr>
+</table>
+
+### 🛠️ DevOps & Tools
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+<br><strong>Git</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android"/>
+<br><strong>Android</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
-## 📊 GitHub Analytics
+## 🔥 SECURITY OPERATIONS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=InoshMatheesha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InoshMatheesha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoshMatheesha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-</div>
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                    🎯 OFFENSIVE SECURITY                      ║
+╠═══════════════════════════════════════════════════════════════╣
+║  ▸ Web Application Penetration Testing                       ║
+║  ▸ Network Security Assessment & Exploitation                ║
+║  ▸ Vulnerability Research & Disclosure                        ║
+║  ▸ OWASP Top 10 Attack Vectors                               ║
+║  ▸ SQL Injection • XSS • CSRF • RCE                          ║
+║  ▸ Social Engineering & Phishing Campaigns                   ║
+╚═══════════════════════════════════════════════════════════════╝
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InoshMatheesha&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+╔═══════════════════════════════════════════════════════════════╗
+║                    🛡️ DEFENSIVE SECURITY                      ║
+╠═══════════════════════════════════════════════════════════════╣
+║  ▸ Secure Code Review & SAST/DAST                            ║
+║  ▸ Security Architecture Design                               ║
+║  ▸ Incident Response & Forensics                             ║
+║  ▸ Cryptographic Implementation                               ║
+║  ▸ Compliance & Security Standards                            ║
+║  ▸ Security Automation & CI/CD Integration                   ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 SYSTEM METRICS • GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InoshMatheesha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7&rank=-C,-?" alt="Trophies"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InoshMatheesha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF&fire_color=00F5FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InoshMatheesha&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoshMatheesha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=InoshMatheesha&theme=redical&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true" alt="Activity Graph"/>
+
 </div>
 
 ---
 
-## 🚀 Current Mission
+## 🏆 ACHIEVEMENT SYSTEM
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=InoshMatheesha&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🚀 MISSION OBJECTIVES • 2025 ROADMAP
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation">
 
-### 📚 Learning Journey 2025
+### 📅 Q1 2025 • RECONNAISSANCE PHASE
+- ✅ Advanced Web Application Pentesting
+- 🔄 OSCP Certification Preparation
+- 🔄 AWS Security Fundamentals
+- 🔄 CTF Competition Participation
 
-```python
-learning_roadmap = {
-    "Q1_2025": [
-        "Advanced Web Application Pentesting",
-        "OSCP Preparation & Practice Labs",
-        "AWS Cloud Security Fundamentals"
-    ],
-    "Q2_2025": [
-        "Binary Exploitation Techniques",
-        "Reverse Engineering Malware",
-        "Kubernetes Security"
-    ],
-    "Q3_2025": [
-        "Mobile Application Security",
-        "IoT Device Penetration Testing",
-        "Advanced Cryptography"
-    ],
-    "Q4_2025": [
-        "Red Team Operations",
-        "Security Automation with AI",
-        "Bug Bounty Hunting"
-    ]
-}
-```
+### 📅 Q2 2025 • EXPLOITATION PHASE
+- ⏳ Binary Exploitation & Reverse Engineering
+- ⏳ Malware Analysis Techniques
+- ⏳ Kubernetes Security Assessment
+- ⏳ Bug Bounty Hunting Program
 
-### 🎯 Active Projects
-- 🔧 Building automated security scanning framework
-- 🌐 Developing secure full-stack applications
-- 🎮 Competing in CTF challenges regularly
-- 📝 Contributing to open-source security tools
-- 📚 Writing technical security blog posts
+### 📅 Q3 2025 • POST-EXPLOITATION
+- ⏳ Mobile Application Security Testing
+- ⏳ IoT Device Penetration Testing
+- ⏳ Advanced Cryptography Implementation
+- ⏳ Red Team Operations
+
+### 📅 Q4 2025 • PERSISTENCE & DEFENSE
+- ⏳ Security Automation with AI/ML
+- ⏳ DevSecOps Pipeline Integration
+- ⏳ Contributing to Major Security Projects
+- ⏳ Technical Security Blog & Research
 
 <br clear="right"/>
 
 ---
 
-## 💡 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Skill Progression
+## 💻 SKILL MATRIX
 
 <div align="center">
 
-```ascii
-Penetration Testing   ████████████████████░   95%
-Web Application Sec   ███████████████████░░   90%
-Network Security      ████████████████░░░░░   85%
-Full-Stack Dev        ███████████████████░░   88%
-Cloud Security        ███████████████░░░░░░   75%
-Malware Analysis      ██████████████░░░░░░░   70%
+```python
+# Advanced Capability Assessment
+skill_matrix = {
+    "Penetration Testing":     "██████████████████░░  95%",
+    "Web Security":            "█████████████████░░░  90%",
+    "Network Security":        "████████████████░░░░  85%",
+    "Full-Stack Development":  "███████████████████░  88%",
+    "Cloud Security":          "███████████████░░░░░  75%",
+    "Malware Analysis":        "██████████████░░░░░░  70%",
+    "Cryptography":            "███████████████░░░░░  80%",
+    "System Administration":   "████████████████░░░░  82%"
+}
+
+# Execute skill deployment
+for skill, level in skill_matrix.items():
+    print(f"[+] {skill.ljust(25)} {level}")
 ```
 
 </div>
 
 ---
 
-## 🎓 Certifications & Goals
+## 🎯 ACTIVE PROJECTS & OPERATIONS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 In Progress
-- 🔄 Offensive Security Certified Professional (OSCP)
-- 🔄 AWS Certified Security Specialty
-- 🔄 Certified Ethical Hacker (CEH)
+### 🔴 OFFENSIVE OPERATIONS
+- 🎯 Automated Security Scanner Framework
+- 🔍 Custom Exploit Development Toolkit
+- 🎮 CTF Challenge Participation
+- 🐛 Bug Bounty Hunting Platform
+- 📡 Network Traffic Analysis Tool
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📅 Planned
-- ⏳ eLearnSecurity Web Application Penetration Tester (eWPT)
-- ⏳ CompTIA Security+
-- ⏳ Azure Security Engineer Associate
+### 🟢 DEFENSIVE PROJECTS
+- 🛡️ Secure Full-Stack Web Applications
+- 🔐 Encryption Library Implementation
+- 📊 Security Monitoring Dashboard
+- 🤖 AI-Powered Threat Detection
+- 📝 Open Source Security Contributions
 
 </td>
 </tr>
@@ -275,35 +368,49 @@ Malware Analysis      ██████████████░░░░░�
 
 ---
 
-## 💬 Quote of the Day
+## 📚 CERTIFICATIONS & TRAINING
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Quote"/>
+
+| 🎯 IN PROGRESS | 📅 PLANNED | ✅ COMPLETED |
+|:---|:---|:---|
+| 🔄 OSCP - Offensive Security | ⏳ eWPT - Web App Pentesting | ✓ Ethical Hacking Fundamentals |
+| 🔄 AWS Security Specialty | ⏳ CompTIA Security+ | ✓ Network Security Basics |
+| 🔄 CEH - Certified Ethical Hacker | ⏳ Azure Security Engineer | ✓ Web Development Bootcamp |
+
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 COLLABORATION PROTOCOL
 
 <div align="center">
 
-### 💼 Open For
+### 💼 AVAILABLE FOR
 
-🔐 **Security Research Projects** • 🎯 **CTF Team Collaborations**  
-💻 **Open Source Contributions** • 📚 **Technical Writing**  
-🎤 **Tech Talks & Workshops** • 🤖 **Freelance Security Consulting**
+```bash
+[●] Security Research & Penetration Testing Projects
+[●] CTF Team Collaborations & Competitive Hacking
+[●] Open Source Security Tool Development
+[●] Technical Writing & Documentation
+[●] Tech Talks, Workshops & Training Sessions
+[●] Freelance Security Consulting & Code Review
+```
 
-### 📫 Reach Out
+### 📡 COMMUNICATION CHANNELS
 
 <p>
   <a href="mailto:inoshmatheesha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/inosh-matheesha-9682b429b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/inosh123">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/📱_FACEBOOK-1877F2?style=for-the-badge&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/InoshMatheesha">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F5FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -311,11 +418,23 @@ Malware Analysis      ██████████████░░░░░�
 
 ---
 
+## 💡 SYSTEM MESSAGE
+
 <div align="center">
 
-### ⚡ Fun Fact
-
-*"I break systems to build them stronger. Coffee-powered debugging sessions are my specialty! ☕🔧"*
+```ascii
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   "Security is not a product, but a process."                 ║
+║                                                                ║
+║   Breaking systems to build them stronger.                    ║
+║   One exploit at a time, one patch at a time.                 ║
+║                                                                ║
+║   ☕ Powered by coffee and curiosity                           ║
+║   🔧 Debugging reality since birth                            ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
@@ -324,9 +443,16 @@ Malware Analysis      ██████████████░░░░░�
 
 <br/><br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- Quote Generator -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20defense%20is%20understanding%20the%20offense&author=Security%20First%20Principle" alt="Quote"/>
 
-**⭐ From [InoshMatheesha](https://github.com/InoshMatheesha) with 💙 • Last Updated: October 2025**
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&animation=twinkling" width="100%"/>
+
+**⚡ Crafted with 💙 by [InoshMatheesha](https://github.com/InoshMatheesha)**  
+*🔐 Securing the digital world, one line of code at a time*  
+*📅 Last Updated: October 2025*
 
 </div>
