@@ -200,25 +200,11 @@
 
 </div>
 
----
-
-## 🏆 ACHIEVEMENT SYSTEM
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=InoshMatheesha&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies"/>
-
-</div>
-
-
-
-
 <br/>
-
-
 
 <br/><br/>
 
+<div align="center">
 <!-- Quote Generator -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20defense%20is%20understanding%20the%20offense&author=Security%20First%20Principle" alt="Quote"/>
 
@@ -232,8 +218,5 @@
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&animation=twinkling" width="100%"/>
 
-**⚡ Crafted with 💙 by [InoshMatheesha](https://github.com/InoshMatheesha)**  
-*🔐 Securing the digital world, one line of code at a time*  
-*📅 Last Updated: October 2025*
 
 </div>
