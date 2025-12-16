@@ -8,9 +8,9 @@
 
 <!-- Profile Stats with Neon Glow -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/InoshMatheesha?style=for-the-badge&color=00F5FF&label=FOLLOWERS&logo=github" />
-  <img src="https://img.shields.io/github/repo-count/InoshMatheesha?style=for-the-badge&color=00F5FF&label=REPOS&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&style=for-the-badge&color=2323FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/InoshMatheesha?style=for-the-badge&color=2323FF&label=FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/github/stars/InoshMatheesha?style=for-the-badge&color=2323FF&label=STARS&logo=github" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&labelColor=0a0a0a" />
 </p>
 
