@@ -7,11 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Digital+Space+%F0%9F%8C%90;Security+Researcher+%7C+Code+Architect+%F0%9F%94%90;Building+Tomorrow's+Secure+Systems+%E2%9A%A1;Penetration+Tester+%7C+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 
 <!-- Profile Stats with Neon Glow -->
-<p>
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-137-00F5FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0a0a" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/FOLLOWERS-14-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Followers"/>
-  <img src="https://img.shields.io/badge/STARS-2-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Stars"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a0a0a" alt="Status"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InoshMatheesha&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/InoshMatheesha?style=for-the-badge&color=00F5FF&label=FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/github/repo-count/InoshMatheesha?style=for-the-badge&color=00F5FF&label=REPOS&logo=github" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&labelColor=0a0a0a" />
 </p>
 
 <!-- Social Connect Buttons -->
