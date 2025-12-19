@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/inosh123">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://github.com/InoshMatheesha">
+  <a href="https://inoshmatheesha.github.io/Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
